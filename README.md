@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Raman Hesen! 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I0YmE0Yzg1ZDY4Yjg2OGMzN2M2OGM4OGRhODliZDY4Mjg2Mjg1YyZjdD1n/M9gbSfMRWB26c/giphy.gif" width="35">
 
-<!--
-**ApexViperCode/ApexViperCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Designer;Building+Modern+Websites;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🚀 I’m currently focused on mastering **HTML**, **CSS**, and **JavaScript**.
+- 🎨 I love designing responsive, clean, and user-friendly web interfaces.
+- 🎯 My goal is to build outstanding web experiences.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamanHesen&show_icons=true&theme=tokyonight&locale=en" alt="Raman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamanHesen&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="Raman's Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamanHesen&theme=tokyonight" alt="GitHub Streak" width="97%" />
+</p>

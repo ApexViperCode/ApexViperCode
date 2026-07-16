@@ -23,10 +23,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=tokyonight&locale=en" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApexViperCode&show_icons=true&theme=tokyonight&layout=compact&locale=en" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight" width="97%" />

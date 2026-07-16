@@ -24,10 +24,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamanHesen&show_icons=true&theme=tokyonight&locale=en" alt="Raman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamanHesen&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="Raman's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=tokyonight&locale=en" alt="Raman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApexViperCode&show_icons=true&theme=tokyonight&layout=compact&locale=en" alt="ApexViperCode's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamanHesen&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>

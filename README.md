@@ -29,7 +29,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight" width="97%" />
 </p>
 
-### ApexViperCode Contribution Graph
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark&bg_color=0d1117&line=39d353&point=ffffff&area=true&hide_border=false&custom_title=ApexViperCode Contribution Graph "width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=ApexViperCode Contribution Graph" width="100%" />
 </p>

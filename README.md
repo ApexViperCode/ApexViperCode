@@ -65,11 +65,9 @@
 ### 🎮 GitHub Contribution Snake Game
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://platane.github.io/snk/svg/ApexViperCode.svg" alt="GitHub Strike Snake Game" width="100%" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="line" />

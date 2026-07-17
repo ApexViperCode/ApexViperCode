@@ -70,9 +70,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="line" />
 
-### 📊 GitHub Advanced Stats
+### 👑 GitHub Contribution Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.alltheasps.workers.dev/api?username=ApexViperCode&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.alltheasps.workers.dev/api/top-langs/?username=ApexViperCode&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight" alt="GitHub Streak" width="100%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="line" />
+
+### 📊 Activity Graphs
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
+</p>
 </p>

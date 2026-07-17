@@ -68,3 +68,13 @@
 <p align="center">
   <img src="https://platane.github.io/snk/svg/ApexViperCode.svg" alt="GitHub Snake Game" width="100%" />
 </p>
+
+### 🎮 GitHub Contribution Snake Game
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/master/packages/gif/generated/ocean.gif" alt="Snake Game Animation" width="100%" />
+</p>

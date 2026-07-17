@@ -17,7 +17,7 @@
 <!-- Followers Badge Only -->
 <!-- Followers Badge with Cache Bypass -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ApexViperCode?color=39d353&style=for-the-badge&label=FOLLOWERS&labelColor=green&maxAge=0" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ApexViperCode?color=39d353&style=for-the-badge&label=FOLLOWERS&labelColor=black&maxAge=0" alt="Followers" />
 </p>
 <!-- 4. Tech Badges -->
 <p align="center">
@@ -30,7 +30,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="colored-line" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px" alt="colored-line" />
 
 ###  About Me
 -  I’m currently focused on mastering **HTML**, **CSS**, and **JavaScript**.

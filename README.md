@@ -13,10 +13,9 @@
 
 <!-- Views and Followers Counters Fixed -->
 <!-- Badges Section -->
+<!-- Followers Badge Only -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/ApexViperCode?color=39d353&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/ApexViperCode?color=39d353&style=for-the-badge&label=REPOSITORIES&labelColor=0d1117" alt="Repositories" />
-  <img src="https://img.shields.io/github/last-commit/ApexViperCode?color=39d353&style=for-the-badge&label=LAST+COMMIT&labelColor=0d1117" alt="Last Commit" />
 </p>
 <!-- 4. Tech Badges -->
 <p align="center">

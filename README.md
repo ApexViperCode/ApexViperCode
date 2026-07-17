@@ -1,6 +1,6 @@
 <!-- 1. Waving Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ea3939&height=200&section=header&text=Raman%20Hesen&subtitle=Frontend%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ea3939&height=200&section=header&text=ApexViperCode%20&subtitle=Frontend%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 </p>
 
 <!-- 2. Typing Effect -->

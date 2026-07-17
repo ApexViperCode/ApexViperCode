@@ -37,7 +37,8 @@
 -  I love designing responsive, clean, and user-friendly web interfaces.
 -  My goal is to build outstanding web experiences.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px" alt="colored-line" />
+
 
 ###  Tech Stack & Tools
 <p align="left">
@@ -46,7 +47,8 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
+
 
 ### 📊 GitHub Stats
 

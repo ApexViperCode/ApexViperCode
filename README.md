@@ -63,14 +63,9 @@
 </p>
 
 
-<!-- Replace YOUR_GITHUB_USERNAME below with your actual username in all 5 places -->
 
 ### 👑 3D Contribution Map
 
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=ApexViperCode&theme=dark" alt="3D Contribution Map" width="100%" />
-</p>
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-summary-cards-output/dark/3-stats.svg" alt="Contribution Radar Chart" width="48%" />
-  <!-- 3. The Top Languages Donut Chart -->
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-summary-cards-output/dark/2-most-used-languages.svg" alt="Top Languages Donut Chart" width="48%" />
 </p>

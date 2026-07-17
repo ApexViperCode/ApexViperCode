@@ -11,7 +11,7 @@
 <!-- 3. Views and Followers Counters -->
 <!-- Views and Followers Counters Fixed -->
 <p align="center">
-  <img src="https://komarev.com/badge/web/github-views?username=ApexViperCode&color=39d353&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/badge/web/github-views?username=ApexViperCode&color=39d353&style=for-the-badge&label=PROFILE+VIEWS" alt="ProfileViews" />
   <img src="https://img.shields.io/github/followers/ApexViperCode?color=39d353&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
 </p>
 <!-- 4. Tech Badges -->

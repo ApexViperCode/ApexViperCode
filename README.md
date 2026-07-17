@@ -9,11 +9,11 @@
 </p>
 
 <!-- 3. Views and Followers Counters -->
+<!-- Views and Followers Counters Fixed -->
 <p align="center">
-  <img src="https://img.shields.io/github/views/ApexViperCode/ApexViperCode?color=0d1117&labelColor=39D353&logo=github&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ApexViperCode?color=0d1117&labelColor=39D353&logo=github&style=for-the-badge" alt="Followers" />
+  <img src="https://komarev.com/badge/web/github-views?username=ApexViperCode&color=39d353&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ApexViperCode?color=39d353&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
 </p>
-
 <!-- 4. Tech Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />

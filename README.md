@@ -1,11 +1,26 @@
-# 👨‍💻 Wael Samer's Profile
-Software Engineering Student
-
+<!-- 1. Waving Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I0YmE0Yzg1ZDY4Yjg2OGMzN2M2OGM4OGRhODliZDY4Mjg2Mjg1YyZjdD1n/M9gbSfMRWB26c/giphy.gif" alt="Animated Background" width="30">
-  <b><font size="+2" color="#FF3333"> Wael Samer</font></b>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I0YmE0Yzg1ZDY4Yjg2OGMzN2M2OGM4OGRhODliZDY4Mjg2Mjg1YyZjdD1n/M9gbSfMRWB26c/giphy.gif" alt="Animated Background" width="30">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ea3939&height=200&section=header&text=Raman%20Hesen&subtitle=Frontend%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 </p>
+
+<!-- 2. Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Building+Modern+Websites;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
+
+<!-- 3. Views and Followers Counters -->
+<p align="center">
+  <img src="https://img.shields.io/github/views/ApexViperCode/ApexViperCode?color=0d1117&labelColor=39D353&logo=github&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ApexViperCode?color=0d1117&labelColor=39D353&logo=github&style=for-the-badge" alt="Followers" />
+</p>
+
+<!-- 4. Tech Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>v
 
 ### Learning Data Structures and Software Engineering...
 </p>src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I0YmE0Yzg1ZDY4Yjg2OGMzN2M2OGM4OGRhODliZDY4Mjg2Mjg1YyZjdD1n/M9gbSfMRWB26c/giphy.gif" width="35">

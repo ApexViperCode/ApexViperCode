@@ -29,7 +29,14 @@
 
 
 
-<font color="#00ffff">:---
+
+<p align="left">
+  <font color="#00ffff"><b>name      :</b></font> <font color="#bf00ff">ApexViperCode</font><br>
+  <font color="#00ffff"><b>location  :</b></font> <font color="#bf00ff">⚪ Zurich, Switzerland</font><br>
+  <font color="#00ffff"><b>role      :</b></font> <font color="#bf00ff">[ Full-Stack Web Developer ]</font><br>
+  <font color="#00ffff"><b>interests :</b></font> <font color="#bf00ff">[ Open Source, Web Dev, Security, AI ]</font><br>
+  <font color="#00ffff"><b>status    :</b></font> <font color="#bf00ff">Always building something cool 🔥</font>
+</p>
 
 ###  About Me
 -  I’m currently focused on mastering **HTML**, **CSS**, and **JavaScript**.

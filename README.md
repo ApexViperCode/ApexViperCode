@@ -36,11 +36,6 @@
 ###  Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,windows,visualstudio" />
   </a>
 </p>

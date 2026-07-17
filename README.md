@@ -29,7 +29,7 @@
 
 
 
----
+<font color="#00ffff">:---
 
 ###  About Me
 -  I’m currently focused on mastering **HTML**, **CSS**, and **JavaScript**.

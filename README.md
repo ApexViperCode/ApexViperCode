@@ -61,3 +61,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=ApexViperCode_Contribution_Graph" width="100%" />
 </p>
+
+
+### 🎮 GitHub Contribution Snake Game
+
+<p align="center">
+  <img src="https://platane.github.io/snk/svg/ApexViperCode.svg" alt="GitHub Snake Game" width="100%" />
+</p>

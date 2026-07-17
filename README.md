@@ -29,7 +29,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight" width="97%" />
 </p>
 
-### Marhdown
+### Contribution Graph
 <p align="center">
-  <img scr="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-light-green&bg_color=39d353&line=39d353&point=ffffff&hide_border=true"width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-light-green&bg_color=39d353&line=39d353&point=ffffff&hide_border=true"width="100%">
 </p>

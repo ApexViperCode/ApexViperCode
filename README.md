@@ -63,16 +63,19 @@
 </p>
 
 
-### 👑 GitHub Contribution Metrics
+<!-- Replace YOUR_GITHUB_USERNAME below with your actual username in all 5 places -->
+
+### 👑 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <!-- 1. The Main 3D Contribution Map & Language Stats Card -->
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-summary-cards-output/dark/0-profile-details.svg" alt="3D Contribution Map" width="100%" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="line" />
-
-### 📊 Activity Graphs
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
+  <!-- 2. The Contribution Type Radar Chart -->
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-summary-cards-output/dark/3-stats.svg" alt="Contribution Radar Chart" width="48%" />
+  <!-- 3. The Top Languages Donut Chart -->
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-summary-cards-output/dark/2-most-used-languages.svg" alt="Top Languages Donut Chart" width="48%" />
 </p>

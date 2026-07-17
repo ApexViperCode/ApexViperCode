@@ -31,5 +31,5 @@
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-light-green&bg_color=39d353&line=39d353&point=ffffff&hide_border=true"width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark-green&bg_color=0d1117&line=39d353&point=ffffff&area=true&hide_border=true"width="100%">
 </p>

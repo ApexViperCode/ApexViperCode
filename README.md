@@ -14,8 +14,9 @@
 <!-- Views and Followers Counters Fixed -->
 <!-- Badges Section -->
 <!-- Followers Badge Only -->
+<!-- Followers Badge with Cache Bypass -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ApexViperCode?color=39d353&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ApexViperCode?color=39d353&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&maxAge=0" alt="Followers" />
 </p>
 <!-- 4. Tech Badges -->
 <p align="center">

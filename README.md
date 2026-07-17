@@ -62,7 +62,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=ApexViperCode_Contribution_Graph" width="100%" />
 </p>
 
-
 ### 👑 3D Contribution Map
 
 <p align="center">
@@ -74,6 +73,6 @@
 ### 📊 GitHub Advanced Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexViperCode&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.alltheasps.workers.dev/api?username=ApexViperCode&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.alltheasps.workers.dev/api/top-langs/?username=ApexViperCode&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" width="48%" />
 </p>

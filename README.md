@@ -43,7 +43,7 @@
 ###  Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,visualstudio,windows,and C++" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,visualstudio,windows,cpp" />
   </a>
 </p>
 

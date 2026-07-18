@@ -69,12 +69,3 @@
 ![Pacman Graph](https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/output/pacman-contribution-graph-dark.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
-
-![Activity Overview](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/overview?username=ApexViperCode&theme=tokyonight)
-<p align="left">
-  <img src="https://img.shields.io/badge/GeosystemX-%230052CC.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/nasa-%23E03C31.svg?style=flat&logo=nasa&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />

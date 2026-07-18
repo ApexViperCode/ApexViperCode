@@ -70,7 +70,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 
-![Activity Overview](https://github-readme-stats.vercel.app/api/overview?username=ApexViperCode&theme=tokyonight)zone=Asia%2FBaghdad)
+![Activity Overview](https://github-readme-stats.vercel.app/api/overview?username=ApexViperCode&theme=tokyonight)
 <p align="left">
   <img src="https://img.shields.io/badge/GeosystemX-%230052CC.svg?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" />

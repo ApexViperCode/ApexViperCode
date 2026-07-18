@@ -64,4 +64,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=ApexViperCode_Contribution_Graph" width="100%" />
 </p>
 
-![Pacman Graph](https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/output/github-contribution-grid.svg)
+![Pacman Graph](https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/output/pacman.svg)

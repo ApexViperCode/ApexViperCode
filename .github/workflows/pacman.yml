@@ -1,26 +1,27 @@
-name: Generate Pac-Man Game
+name: Generate Pacman Contribution Graph
 
 on:
+  # يشتغل تلقائياً كل 24 ساعة
   schedule:
-    - cron: "0 0 * * *" # يتم التحديث تلقائياً كل يوم في منتصف الليل
-  workflow_dispatch: # يسمح لك بتشغيل السكريبت يدوياً في أي وقت
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"
+  # يسمح لك بتشغيله يدوياً في أي وقت
+  workflow_dispatch:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman SVG
+        uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          
-      - name: push pacman-contribution-graph.svg to the output branch
+          # يمكنك تغيير 'pacman' إلى 'bomberman' أو 'galaga' حسب الجدول الموجود في الصورة
+          game_name: pacman 
+
+      - name: Push SVG to Repository
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

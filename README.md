@@ -70,7 +70,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/ApexViperCode?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FBaghdad)
 <p align="left">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/nasa-%23E03C31.svg?style=for-the-badge&logo=nasa&logoColor=white" />

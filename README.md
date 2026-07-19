@@ -19,7 +19,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=39d353&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=9" alt="Views">
-
 <br></br>
 
    <a href="https://github.com/ApexViperCode?tab=followers" style="text-decoration: none; color: #39d353; font-family: monospace; font-size: 16px;">

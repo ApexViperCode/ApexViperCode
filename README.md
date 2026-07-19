@@ -16,13 +16,17 @@
 <!-- Badges Section -->
 <!-- Followers Badge Only -->
 <!-- Followers Badge with Cache Bypass -->
+
 <p align="center">
-  <a href="https://github.com/ApexViperCode?tab=followers">
-  <img src="https://badgen.net/github/followers/ApexViperCode?color=39d353&style=flat-square&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=39d353&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=9" alt="Views">
+
+<br></br>
+
+   <a href="https://github.com/ApexViperCode?tab=followers" style="text-decoration: none; color: #39d353; font-family: monospace; font-size: 16px;">
+   <b>FOLLOWERS: Click to view my network!</b>
   </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=39d353&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=8" alt="Views">
 </p>
+
 <!-- 4. Tech Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />

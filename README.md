@@ -52,9 +52,15 @@
 
 ### 📊 GitHub Stats
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight" height="140" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=tokyonight" height="140" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ApexViperCode&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexViperCode&layout=compact&theme=tokyonight" width="49%" alt="Top Langs" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />

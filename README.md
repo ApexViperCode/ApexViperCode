@@ -18,10 +18,10 @@
 <!-- Followers Badge with Cache Bypass -->
 <p align="center">
   <a href="https://github.com/ApexViperCode?tab=followers">
-  <img src="https://img.shields.io/badge/FOLLOWERS-0-green?style=for-the-badge" alt="Followers" />
+  <img src="https://badgen.net/github/followers/ApexViperCode?color=39d353&style=flat-square&label=Followers" alt="Followers" />
   </a>
   
-  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=39d353&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=6" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=39d353&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=8" alt="Views">
 </p>
 <!-- 4. Tech Badges -->
 <p align="center">

@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats
 
-<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
 
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=ApexViperCode&theme=tokyonight" alt="GitHub Streak" />

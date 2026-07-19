@@ -17,7 +17,7 @@
 <!-- Followers Badge Only -->
 <!-- Followers Badge with Cache Bypass -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ApexViperCode?lable=Followers&style=for-the-badge&logo=github&Color=black&logocolor=ffffff" alt="Followers Badge" />
+  <img src="https://img.shields.io/github/followers/ApexViperCode?lable=Followers&style=for-the-badge&logo=github&Color=black&logocolor=ffffff" alt="Followers" />
 </p>
 <!-- 4. Tech Badges -->
 <p align="center">

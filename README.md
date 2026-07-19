@@ -17,7 +17,9 @@
 <!-- Followers Badge Only -->
 <!-- Followers Badge with Cache Bypass -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/RamanHesen?color=39d353&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&maxAge=0" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ApexViperCode?color=39d353&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&version=1" alt="Followers" />
+
+  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=39d353&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=1" alt="Views">
 </p>
 <!-- 4. Tech Badges -->
 <p align="center">

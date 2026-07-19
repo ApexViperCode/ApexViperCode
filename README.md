@@ -53,10 +53,10 @@
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ApexViperCode&theme=tokyonight)](https://git.io/streak-stats)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApexViperCode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=ApexViperCode_Contribution_Graph" width="100%" />

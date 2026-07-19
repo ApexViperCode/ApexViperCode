@@ -17,7 +17,7 @@
 <!-- Followers Badge Only -->
 <!-- Followers Badge with Cache Bypass -->
 <p align="center">
-  <a herf="https://github.com/ApexViperCode?tab=followers">
+  <a href="https://github.com/ApexViperCode?tab=followers">
   <img src="https://img.shields.io/badge/FOLLOWERS-0-39D353?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Followers" />
   </a>
   

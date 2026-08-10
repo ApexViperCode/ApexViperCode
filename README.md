@@ -38,6 +38,56 @@
 -  I’m currently focused on mastering **HTML**, **CSS**, and **JavaScript**.
 -  I love designing responsive, clean, and user-friendly web interfaces.
 -  My goal is to build outstanding web experiences.
+-  ## 🧠 My Focus Areas
+
+- C++ Programming & Logic
+- Web Development (HTML, CSS, JavaScript)
+- Object-Oriented Programming (OOP)
+- Continuous Self-Improvement & Learning
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+class ApexViperCode
+{
+public:
+    string RealName = "Raman";
+    string Handle = "ApexViperCode";
+    string Level = "Intermediate - Always Improving";
+
+    vector<string> Languages = 
+    {
+        "C++",
+        "HTML5",
+        "CSS3"
+    };
+
+    vector<string> CurrentlyLearning = 
+    {
+        "JavaScript",
+        "Building Web Projects"
+    };
+
+    vector<string> Skills = 
+    {
+        "Object-Oriented Programming (OOP)",
+        "Web Page Layout",
+        "Problem Solving & Logic"
+    };
+
+    string Goal = "Developing my programming skills & building clean web applications";
+};
+
+int main()
+{
+    ApexViperCode developer;
+    return 0;
+}
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 

@@ -111,7 +111,7 @@ int main()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=ApexViperCode_Contribution_Graph" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=radical&hide_border=true" alt="ApexViperCode Stats"/>
+  <img src="https://raw.githubusercontent.com/technologylearning/tech-stack-3d/main/tech-stack.svg" alt="3D Tech Stack Sphere" width="500"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />

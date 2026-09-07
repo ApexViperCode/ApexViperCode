@@ -95,7 +95,7 @@ int main()
 <div align="center">
   <h3>Tech Stack & Latest Tools</h3>
   <br>  
-<img src="https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/main/assets/tech-sphere.gif" alt="Tech Sphere" width="450"/>
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,aws,git,github,docker,django,vscode.linux&perline=6" alt="Tech Stack" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />

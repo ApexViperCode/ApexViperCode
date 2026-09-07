@@ -82,28 +82,20 @@ public:
     string Goal = "Developing my programming skills & building clean web applications";
 };
 
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,aws,git,github,docker,django,vscode.linux&theme=dark" alt="Tech Stack Icons" />
+  
 int main()
 {
     ApexViperCode developer;
     return 0;
 }
 ```
-<div align="center">>
-  # Welcoe to Profile
-  
-  <br>
-  
+<div align="center">
   <h3>Tech Stack & Latest Tools</h3>
-  
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,aws,git,github,docker,django,vscode.linux&theme=dark" alt="Tech Stack Icons" />
-  
-  <br><br>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ApexViperCode&style=flat-square&color=blueviolet" alt="Profile Views" />
-  </p>
+  <br>  
+<img src="https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/main/assets/tech-sphere.gif" alt="Tech Sphere" width="450"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />

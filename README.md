@@ -88,6 +88,23 @@ int main()
     return 0;
 }
 ```
+<div align="center">>
+  # Welcoe to Profile
+  
+  <br>
+  
+  <h3>Tech Stack & Latest Tools</h3>
+  
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,aws,git,github,docker,django,vscode.linux&theme=dark" alt="Tech Stack Icons" />
+  
+  <br><br>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ApexViperCode&style=flat-square&color=blueviolet" alt="Profile Views" />
+  </p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 
@@ -110,23 +127,7 @@ int main()
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexViperCode&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=ApexViperCode_Contribution_Graph" width="100%" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
-<div align="center">>
-  # Welcoe to Profile
-  
-  <br>
-  
-  <h3>Tech Stack & Latest Tools</h3>
-  
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,aws,git,github,docker,django,vscode.linux&theme=dark" alt="Tech Stack Icons" />
-  
-  <br><br>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ApexViperCode&style=flat-square&color=blueviolet" alt="Profile Views" />
-  </p>
-</div>
 ![Pacman Graph](https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/output/pacman-contribution-graph-dark.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />

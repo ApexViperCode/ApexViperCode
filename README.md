@@ -101,12 +101,7 @@ int main()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 
 
-###  Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,bootstrap,git,github,vscode,visualstudio,windows" />
-  </a>
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 
@@ -127,8 +122,3 @@ int main()
 ![Pacman Graph](https://raw.githubusercontent.com/ApexViperCode/ApexViperCode/output/pacman-contribution-graph-dark.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ApexViperCode" alt="Github Trophies" />
-  </a>
-</p>

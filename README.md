@@ -33,7 +33,8 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
-
+  <img src="https://skillicons.dev/icons?i=js,windows,html,css,cpp,git,github.vscode&perline=6" alt="Tech Stack" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 ###  About Me
 -  I’m currently focused on mastering **HTML**, **CSS**, and **JavaScript**.
 -  I love designing responsive, clean, and user-friendly web interfaces.
@@ -92,13 +93,10 @@ int main()
     return 0;
 }
 ```
-<div align="center">
-  <h3>Tech Stack & Latest Tools</h3>
-  <br>  
+ 
   <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,aws,git,github,docker,django,vscode.linux&perline=6" alt="Tech Stack" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
+
 
 
 

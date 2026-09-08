@@ -113,8 +113,9 @@ int main()
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=shades-of-purple" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight&background=130826&border=7c3aed&ring=a855f7&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c084fc&dates=c084fc" alt="GitHub Streak" />
 </p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />

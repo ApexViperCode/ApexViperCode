@@ -113,12 +113,13 @@ int main()
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=shades-of-purple" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=shades-of-purple" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=shades-of-purple" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=shades-of-purple" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexViperCode&layout=compact&theme=shades-of-purple" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexViperCode&layout=compact&theme=shades-of-purple" alt="Top Langs" />
 </p>
+
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=dracula" alt="GitHub Streak" />

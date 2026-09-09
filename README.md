@@ -18,7 +18,7 @@
 <!-- Followers Badge with Cache Bypass -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=000000&style=for-the-badge&label=VIEWS&labelColor=yellow&version=9" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=000000&style=for-the-badge&label=VIEWS&labelColor=white&version=9" alt="Views">
 
 </p>
 

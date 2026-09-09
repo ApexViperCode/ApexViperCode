@@ -1,10 +1,10 @@
 <!-- 1. Waving Header -->
 <!-- 1. Waving Gradient Header (Purple to Blue) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:170121,50:8c08ce,100:170121&height=200&section=header&text=ApexViperCode%20&subtitle=Full-Stack%20Web%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner" /> ffaf7b 170121 d76d77
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:170121,50:8c08ce,100:170121&height=200&section=header&text=ApexViperCode%20&subtitle=Full-Stack%20Web%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner" /> 
 </p>
 
-<!-- 2. Typing Effect -->
+<!--color top ffaf7b 170121 d76d77 2. Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8c08ce&center=true&vCenter=true&width=500&lines=Building+Modern+Websites;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>

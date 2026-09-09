@@ -19,9 +19,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=8c08ce&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=9" alt="folowers">
-Views
-</p>
 
+</p>
+Views
 <!-- 4. Tech Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />

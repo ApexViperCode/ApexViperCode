@@ -18,16 +18,16 @@
 <!-- Followers Badge with Cache Bypass -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=8c08ce&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=9" alt="folowers">
+  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=8c08ce&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=9" alt="Views">
 
 </p>
-Views
+
 <!-- 4. Tech Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=parpul" alt="GitHub"/>
 
 
 

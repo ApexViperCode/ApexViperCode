@@ -96,7 +96,7 @@ int main()
 }
 ```
  
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,aws,git,github,docker,django,vscode.linux&perline=6" alt="Tech Stack" />
+
 
 
 

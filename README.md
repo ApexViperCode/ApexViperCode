@@ -105,7 +105,9 @@ int main()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
 
-<h1 style="color: #8c08ce;">📊 GitHub Stats</h1> 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=tokyonight&background=130826&border=7c3aed&ring=a855f7&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c084fc&dates=c084fc" alt="GitHub Streak" />

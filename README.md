@@ -18,8 +18,8 @@
 <!-- Followers Badge with Cache Bypass -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=8c08ce&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=9" alt="Views">
-
+  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&Color=8c08ce&style=for-the-badge&label=VIEWS&labelColor=0d1117&version=9" alt="folowers">
+Views
 </p>
 
 <!-- 4. Tech Badges -->

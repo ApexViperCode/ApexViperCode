@@ -174,30 +174,13 @@ alt="Colored divider"
 
 <!--                           GITHUB STATS                                 -->
 
-    */
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApexViperCode&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="ApexViperCode Stats" />
-</p>
+   
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApexViperCode&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
 
-<br />
 
-<p align="center">
-  <b>⚡ Tech Stack & Development Tools ⚡</b>
-</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,nodejs,express,react,bootstrap,vscode,git,github,windows,linux,python&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ApexViperCode&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>   
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>

@@ -123,9 +123,6 @@ alt="Colored divider"
 <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=noorgx&label=VISITORS&labelColor=%23161616&countColor=%237a0f0f&style=flat-square" />
 </p>
 
-<p align="center"><img src="assets/footer.svg" alt="It's not personal. It's business." width="100%" /></p>
-
-
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->

@@ -44,31 +44,32 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                              DIVIDER                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 👨‍💻 About Me
-
-Hi! I'm **Raman**, also known as **ApexViperCode**.
-
-I'm a developer focused on building modern, responsive, and user-friendly websites while continuously improving my programming and problem-solving skills.
-
-- 🔭 Currently focused on **HTML, CSS, and JavaScript**
-- 🌱 Learning more about **modern web development**
-- 💻 Practicing **C++ and Object-Oriented Programming**
-- 🎨 Interested in clean and responsive UI design
-- 🧠 Improving my logic and problem-solving skills
-- 🚀 Goal: Build outstanding web experiences and keep growing as a developer
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🧠 My Focus Areas
-
-- 💻 C++ Programming & Logic
-- 🌐 Web Development — HTML, CSS, JavaScript
-- 🧩 Object-Oriented Programming (OOP)
-- 🧠 Problem Solving & Logic
-- 🎨 Responsive Web Design
-- 📚 Continuous Self-Improvement & Learning
-
+> [!CAUTION] 
+>          
+>## 👨‍💻 About Me 
+>  
+>Hi! I'm **Raman**, also known as **ApexViperCode**.
+>
+>I'm a developer focused on building modern, responsive, and user-friendly websites while continuously improving my programming and problem-solving skills.
+>
+>- 🔭 Currently focused on **HTML, CSS, and JavaScript**
+>- 🌱 Learning more about **modern web development**
+>- 💻 Practicing **C++ and Object-Oriented Programming**
+>- 🎨 Interested in clean and responsive UI design
+>- 🧠 Improving my logic and problem-solving skills
+>- 🚀 Goal: Build outstanding web experiences and keep growing as a developer
+>
+><!-- ═══════════════════════════════════════════════════════════════════════ -->
+>
+>## 🧠 My Focus Areas
+>
+>- 💻 C++ Programming & Logic
+>- 🌐 Web Development — HTML, CSS, JavaScript
+>- 🧩 Object-Oriented Programming (OOP)
+>- 🧠 Problem Solving & Logic
+>- 🎨 Responsive Web Design
+>- 📚 Continuous Self-Improvement & Learning
+>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 

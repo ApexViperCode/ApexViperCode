@@ -2,7 +2,9 @@
 <!--                         APEX VIPER CODE                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🌌 Waving Header -->
-
+<div align="center">
+  <img src="assets/rule.svg" width="80%" alt=""/>
+</div>
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:a31515,100:000000&height=200&section=header&text=ApexViperCode&subtitle=Full-Stack%20Web%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn"
